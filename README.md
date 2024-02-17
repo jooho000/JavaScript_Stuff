@@ -13,3 +13,7 @@ DigitalClock:
 bumberAdjuster:
 
         simple website that displays a count
+
+calculator:
+
+        calculator
